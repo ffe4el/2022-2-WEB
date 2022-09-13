@@ -40,7 +40,7 @@
       <recent name="C:\Users\default.DESKTOP-KGP6A83\Desktop\2022-2-WEB\09.13\HW03" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.exercise">
+  <component name="RunManager" selected="Python.sum_even (1)">
     <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2022-2-WEB" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,27 +54,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.13/HW03/exercise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2022-2-WEB" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.08/factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,6 +104,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sum_even (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2022-2-WEB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.08/HW02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.08/HW02/sum_even.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sum_even" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2022-2-WEB" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,19 +147,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.factorial" />
       <item itemvalue="Python.gugudan_check" />
       <item itemvalue="Python.gui_gugudan" />
       <item itemvalue="Python.sum_even" />
       <item itemvalue="Python.exercise" />
+      <item itemvalue="Python.sum_even (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sum_even (1)" />
         <item itemvalue="Python.exercise" />
         <item itemvalue="Python.gui_gugudan" />
         <item itemvalue="Python.gugudan_check" />
         <item itemvalue="Python.sum_even" />
-        <item itemvalue="Python.factorial" />
       </list>
     </recent_temporary>
   </component>
