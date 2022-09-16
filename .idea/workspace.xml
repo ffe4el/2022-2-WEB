@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b65089a-64fb-4a47-a71d-f49c82c66e87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/introduce.html" afterDir="false" />
+    <list default="true" id="1b65089a-64fb-4a47-a71d-f49c82c66e87" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/2022-2-WEB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2022-2-WEB.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -25,6 +22,8 @@
       <change beforePath="$PROJECT_DIR$/09.13/HW03/gugudan_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.13/HW03/gugudan_check.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09.13/HW03/gui_gugudan.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.13/HW03/gui_gugudan.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09.15/HW04/flask_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/flask_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.15/HW04/flask_server/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/introduce.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09.15/HW04/gugu.html" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/gugu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09.15/HW04/gugudan_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/gugudan_html.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09.15/HW04/output/gugu_show.html" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/output/gugu_show.html" afterDir="false" />
@@ -228,7 +227,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662618666794</updated>
-      <workItem from="1663310440158" duration="6517000" />
+      <workItem from="1663310440158" duration="6808000" />
     </task>
     <servers />
   </component>
