@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b65089a-64fb-4a47-a71d-f49c82c66e87" name="Changes" comment="" />
+    <list default="true" id="1b65089a-64fb-4a47-a71d-f49c82c66e87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/introduce.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2022-2-WEB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2022-2-WEB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.08/HW02/check_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/check_even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.08/HW02/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.08/HW02/gugudan.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/gugudan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.08/HW02/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/prime_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.08/HW02/prime_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/prime_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.08/HW02/sum_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/sum_even.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.08/HW02/unit_conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/unit_conv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.13/HW03/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.13/HW03/exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.13/HW03/gugudan_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.13/HW03/gugudan_check.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.13/HW03/gui_gugudan.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.13/HW03/gui_gugudan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.15/HW04/flask_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/flask_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.15/HW04/gugu.html" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/gugu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.15/HW04/gugudan_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/gugudan_html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.15/HW04/output/gugu_show.html" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/output/gugu_show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -29,26 +58,42 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ETTe7DjZaZMLqpX4z5kJexHkoH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/09.13" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/user/OneDrive/바탕 화면/sol/2022-2/응소/2022-2-WEB",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\default.DESKTOP-KGP6A83\Desktop\2022-2-WEB\09.13" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\바탕 화면\sol\2022-2\응소\2022-2-WEB\09.15\HW04\flask_server" />
+      <recent name="C:\Users\user\OneDrive\바탕 화면\sol\2022-2\응소\2022-2-WEB\09.15\HW04\flask_server\templates" />
+      <recent name="C:\Users\user\OneDrive\바탕 화면\sol\2022-2\응소\2022-2-WEB\09.15\HW04\templet" />
       <recent name="C:\Users\default.DESKTOP-KGP6A83\Desktop\2022-2-WEB\09.13\HW03" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.flask_ex">
-    <configuration name="exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JavaScript 디버그.introduce.html">
+    <configuration name="introduce.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2022-2-WEB/09.15/HW04/flask_server/templates/introduce.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="2022-2-WEB" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +101,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.13/HW03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.15/HW04/flask_server" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.13/HW03/exercise.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.15/HW04/flask_server/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2022-2-WEB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.15/HW04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\OneDrive\바탕 화면\sol\2022-2\응소\2022-2-WEB\09.15\HW04\flask_server\app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2022-2-WEB" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.15/HW04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\OneDrive\바탕 화면\sol\2022-2\응소\2022-2-WEB\09.15\HW04\flask_server\app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,6 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.15/HW04/flask_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -102,6 +193,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.15/HW04/gugudan_html.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -111,62 +203,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gugudan_html" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2022-2-WEB" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.15/gugudan_html.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sum_even (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="2022-2-WEB" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.08/HW02" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.08/HW02/sum_even.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.exercise" />
-      <item itemvalue="Python.sum_even (1)" />
-      <item itemvalue="Python.gugudan_html" />
+      <item itemvalue="JavaScript 디버그.introduce.html" />
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python.app (1)" />
       <item itemvalue="Python.gugudan_html (1)" />
       <item itemvalue="Python.flask_ex" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript 디버그.introduce.html" />
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.flask_ex" />
-        <item itemvalue="Python.gugudan_html (1)" />
-        <item itemvalue="Python.gugudan_html" />
-        <item itemvalue="Python.sum_even (1)" />
-        <item itemvalue="Python.exercise" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +228,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662618666794</updated>
+      <workItem from="1663310440158" duration="6517000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2022_2_WEB$web_project.coverage" NAME="web_project 커버리지 결과" MODIFIED="1663315372583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.15/HW04" />
+    <SUITE FILE_PATH="coverage/2022_2_WEB$flask_ex.coverage" NAME="flask_ex 커버리지 결과" MODIFIED="1663312698102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.15/HW04" />
+    <SUITE FILE_PATH="coverage/2022_2_WEB$app__1_.coverage" NAME="app (1) 커버리지 결과" MODIFIED="1663316054822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.15/HW04/flask_server" />
   </component>
 </project>
