@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1b65089a-64fb-4a47-a71d-f49c82c66e87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/introduce.html" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +46,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< Updated upstream
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\default.DESKTOP-KGP6A83\Desktop\2022-2-WEB\09.13" />
@@ -53,6 +57,12 @@
       <recent name="C:\Users\user\OneDrive\바탕 화면\sol\2022-2\응소\2022-2-WEB\09.15\HW04\templet" />
       <recent name="C:\Users\default.DESKTOP-KGP6A83\Desktop\2022-2-WEB\09.13\HW03" />
     </key>
+=======
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ffe4el.github.io" />
+>>>>>>> Stashed changes
   </component>
   <component name="RunManager" selected="Python.app (1)">
     <configuration name="introduce.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2022-2-WEB/09.15/HW04/flask_server/templates/introduce.html" useBuiltInWebServerPort="true">
