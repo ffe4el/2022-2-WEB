@@ -4,30 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b65089a-64fb-4a47-a71d-f49c82c66e87" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/2022-2-WEB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/2022-2-WEB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1b65089a-64fb-4a47-a71d-f49c82c66e87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.08/HW02/check_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/check_even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.08/HW02/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.08/HW02/gugudan.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/gugudan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.08/HW02/prime_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/prime_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.08/HW02/prime_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/prime_numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.08/HW02/sum_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/sum_even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.08/HW02/unit_conv.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.08/HW02/unit_conv.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.13/HW03/exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.13/HW03/exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.13/HW03/gugudan_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.13/HW03/gugudan_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.13/HW03/gui_gugudan.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.13/HW03/gui_gugudan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.15/HW04/flask_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/flask_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.15/HW04/flask_server/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/introduce.html" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/flask_server/templates/introduce.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.15/HW04/gugu.html" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/gugu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.15/HW04/gugudan_html.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/gugudan_html.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09.15/HW04/output/gugu_show.html" beforeDir="false" afterPath="$PROJECT_DIR$/09.15/HW04/output/gugu_show.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,19 +43,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/OneDrive/바탕 화면/sol/2022-2/응소/2022-2-WEB",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
-  }
-}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\default.DESKTOP-KGP6A83\Desktop\2022-2-WEB\09.13" />
@@ -88,7 +54,7 @@
       <recent name="C:\Users\default.DESKTOP-KGP6A83\Desktop\2022-2-WEB\09.13\HW03" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript 디버그.introduce.html">
+  <component name="RunManager" selected="Python.app (1)">
     <configuration name="introduce.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/2022-2-WEB/09.15/HW04/flask_server/templates/introduce.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -203,7 +169,6 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript 디버그.introduce.html" />
       <item itemvalue="Python.app" />
       <item itemvalue="Python.app (1)" />
       <item itemvalue="Python.gugudan_html (1)" />
@@ -211,7 +176,6 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript 디버그.introduce.html" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
@@ -244,10 +208,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/2022_2_WEB$web_project.coverage" NAME="web_project 커버리지 결과" MODIFIED="1663315372583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.15/HW04" />
-    <SUITE FILE_PATH="coverage/2022_2_WEB$flask_ex.coverage" NAME="flask_ex 커버리지 결과" MODIFIED="1663312698102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.15/HW04" />
-    <SUITE FILE_PATH="coverage/2022_2_WEB$app__1_.coverage" NAME="app (1) 커버리지 결과" MODIFIED="1663316054822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/09.15/HW04/flask_server" />
   </component>
 </project>
