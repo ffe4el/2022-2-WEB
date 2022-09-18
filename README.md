@@ -17,5 +17,5 @@
 ### 09.15/ HW04
 * 구구단을 html로 표현하기
 * flask이용해서 웹으로 표현하기
-* 자유주제 html
+* 자유주제 Web project(flask_server폴더에 있는 app.py)
 
