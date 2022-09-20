@@ -19,8 +19,9 @@ def login_form_get():
 def log_get_proc(user_id=None):
     if request.methoed =='GET':
         user_id = request.args.get('user_id')
+
     user_id=str(escape(user_id))
-    color = 'MediumSeaGreen'
+    # color = 'MediumSeaGreen'
     # user_pwd = request.args.get('user_pwd')
     if len(user_id) == 0 :
         return f"{user_id} 존재하지 않습니다."
