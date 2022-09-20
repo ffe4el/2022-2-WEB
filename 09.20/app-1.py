@@ -13,13 +13,17 @@ def login_form_get():
 
 
 #로그인 후 나타나는 페이지
+@app.route('/login_get_proc/<user_id>')
 @app.route('/login_get_proc', methods=['GET'])
 @cross_origin(origin="*")
-def log_get_proc():
-    user_id = request.args.get('user_id')
-    user_pwd = request.args.get('user_pwd')
-    if len(user_id) == 0 or len(user_pwd) ==0:
-        return f"{user_id} or {user_pwd} 존재하지 않습니다."
+def log_get_proc(user_id=None):
+    if request.methoed =='GET':
+        user_id = request.args.get('user_id')
+    user_id=str(escape(user_id))
+    color = 'MediumSeaGreen'
+    # user_pwd = request.args.get('user_pwd')
+    if len(user_id) == 0 :
+        return f"{user_id} 존재하지 않습니다."
     elif (user_id) == "sola":
         return redirect(url_for('hello'))
     else :
