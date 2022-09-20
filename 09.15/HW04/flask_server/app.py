@@ -22,7 +22,7 @@ def log_get_proc():
     elif (user_id) == "sola":
         return redirect(url_for('hello'))
     else :
-        return redirect(url_for('hello_guest', guest = name))
+        return redirect(url_for('hello_guest', guest = f"{user_id}"))
 
 #내 소개글
 @app.route('/admin')

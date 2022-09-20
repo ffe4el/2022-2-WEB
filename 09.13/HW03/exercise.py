@@ -29,9 +29,9 @@ print(var4[2] == "Hello, Python!")
 
 # Dictionaries
 print(isinstance(var5, dict))
-print("happy" in var5)
-print(7 in var5.values())
-print(var5.get("egg") == "salad")
+print("happy" in var5) #키
+print(7 in var5.values()) #값
+print(var5.get("egg") == "salad") #egg가 키, salad가 값
 print(len(var5) == 3)
 var5["tuna"] = "fish"
 print(len(var5) == 3)
