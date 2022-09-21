@@ -19,3 +19,6 @@
 * flask이용해서 웹으로 표현하기
 * 자유주제 Web project(flask_server폴더에 있는 app.py)
 
+### 09.20/ HW05
+* javascript 사용해서 html 입출력하기
+
