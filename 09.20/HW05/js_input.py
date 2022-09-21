@@ -7,9 +7,9 @@ app = Flask(__name__)
 #     return 'Hello Admin'
 
 #로그인 페이지
-@app.route('/login_form_get')
-def login_form_get():
-    return render_template('login/login_form_get.html')
+@app.route('/')
+def homepage():
+    return render_template('homepage.html')
 
 
 #로그인 후 나타나는 페이지
