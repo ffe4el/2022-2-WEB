@@ -3,8 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <title>Homepage</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body>
+<form id="form_id" action="javascript:post_query()">
+    <input type="text" name="name" value="Sola"></form>
+<!--    <button type="submit">Go</button>-->
+<!--<form id="form_ad" action="javascript:post_query()">-->
+    <input type="int" name="age" value="22"></form>
+<!--    <button type="submit">Go</button>-->
+<!--<form id="form_md" action="javascript:post_query()">-->
+    <input type="text" name="major" value="Smart Farm"></form>
+<!--    <button type="submit">Go</button>-->
+<!--<form id="form_ud" action="javascript:post_query()">-->
+    <input type="text" name="University" value="JBNU">
+    <button type="submit">Go</button></form>
 
+<h3>결과</h3>
+<div id ="results"></div>
+<script>
+function post_query() {
+    $.ajax({
+      type: "POST",
+      url: "http://192.168.0.78:5000/homepage",
+      data: $("#form_id").serialize()
+      success: update
+      dataType: "html"
+    });
+}
+
+function update_result(data) {
+    $("#results").html(data);
+}
+
+</script>
 </body>
 </html>
