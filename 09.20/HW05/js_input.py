@@ -1,5 +1,6 @@
 from flask import Flask, render_template, redirect, url_for, session, escape, request
 from flask_cors import cross_origin
+
 app = Flask(__name__)
 
 # @app.route('/admin')
@@ -13,34 +14,48 @@ app = Flask(__name__)
 
 
 #로그인 후 나타나는 페이지
-# @app.route('/homepage/<name>/<age>/<major>/<University>')
-@app.route('/homepage', methods=['POST'])
-@cross_origin(origin="*")
-def homepage(name=None, age=None, major=None, University=None):
-    if request.methoed =='POST':
+# @app.route('/homepage/<name>')
+@app.route('/homepage', methods=['GET'])
+@cross_origin(origin='*')
+def homepage(name=None):
+    if request.method =='GET':
         name = request.args.get('name')
         age = request.args.get('age')
         major = request.args.get('major')
-        University = request.args.get('University')
+        university = request.args.get('university')
 
     name = str(escape(name))
     color1 = 'orange'
 
     age = int(escape(age))
-    color2 = 'MediumSeaGreen'
+    color2 = 'yellow'
 
     major = str(escape(major))
-    color3 = 'blue'
+    color3 = 'MediumSeaGreen'
 
-    University = str(escape(University))
-    color4 = 'purple'
+    university = str(escape(university))
+    color4 = 'red'
 
-
-    resp1 = f"안녕하세요. <font color={color1}>{name}</font>입니다.\n"
-    resp2 = f"나이는 <font color={color2}>{age}</font>살 입니다.\n"
-    resp3 = f"<font color={color4}>{University}</font>에서 <font color={color3}>{major}</font>에 대해 공부하고 있습니다"
-
-    return resp1 + resp2 + resp3
+    resp1 = ''
+    resp1 +=  '''<p>\n'''
+    resp1 += f'안녕하세요. <font color={color1}>{name}</font>입니다.'
+    resp1 += '''</p>\n
+    \n  
+'''
+    resp2 = ''
+    resp2 +=  '''<p>\n'''
+    resp2 += f"나이는 <font color={color2}>{age}</font>살 입니다."
+    resp2 += '''</p>\n
+    \n
+'''
+    resp3 = ''
+    resp3 += '''<p>\n'''
+    resp3 += f"<font color={color4}>{university}</font>에서 <font color={color3}>{major}</font>에 대해 공부하고 있습니다"
+    resp3 += '''</p>\n
+    \n
+'''
+    resp = f"<font color=white>{resp1} {resp2} {resp3}</font>"
+    return resp
 
 
 # #내 소개글

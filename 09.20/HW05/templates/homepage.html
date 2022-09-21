@@ -2,32 +2,47 @@
 <html lang="UTF-8">
 <head>
     <meta charset="UTF-8">
-    <title>Homepage</title>
+    <title>Homepage.html</title>
+    <style>
+    .my-div {
+        border : 2px white solid;
+        height :150px;
+        text-align : center;
+    }
+    body {
+      background: url("https://user-images.githubusercontent.com/93892724/190860818-e53b773b-3728-4872-b3d9-e7db36716c93.jpg");
+      background-size: cover;
+    }
+    </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
 <body>
+<div class="my-div">
 <form id="form_id" action="javascript:post_query()">
-    <input type="text" name="name" value="Sola"></form>
-<!--    <button type="submit">Go</button>-->
-<!--<form id="form_ad" action="javascript:post_query()">-->
-    <input type="int" name="age" value="22"></form>
-<!--    <button type="submit">Go</button>-->
-<!--<form id="form_md" action="javascript:post_query()">-->
-    <input type="text" name="major" value="Smart Farm"></form>
-<!--    <button type="submit">Go</button>-->
-<!--<form id="form_ud" action="javascript:post_query()">-->
-    <input type="text" name="University" value="JBNU">
-    <button type="submit">Go</button></form>
+    <font color=white>이름 : </font><input type="text" name="name" value="김솔아"><br><br>
+<!--&lt;!&ndash;    <button type="submit">Go</button>&ndash;&gt;-->
+<!--<form id="form_ad" action="javascr ipt:post_query()">-->
+    <font color=white>나이 : </font><input type="int" name="age" value="22"><br><br>
+<!--&lt;!&ndash;    <button type="submit">Go</button>&ndash;&gt;-->
+<!--&lt;!&ndash;<form id="form_md" action="javascript:post_query()">&ndash;&gt;-->
+    <font color=white>전공 : </font><input type="text" name="major" value="Smart Farm"><br><br>
+<!--&lt;!&ndash;    <button type="submit">Go</button>&ndash;&gt;-->
+<!--&lt;!&ndash;<form id="form_ud" action="javascript:post_query()">&ndash;&gt;-->
+    <font color=white>학교 : </font><input type="text" name="university" value="전북대학교"><br><br>
+    <button type="submit">Go</button>
+</form>
+</div>
 
-<h3>결과</h3>
+<h2><font color=white><b>결과</b></font></h2>
+
 <div id ="results"></div>
 <script>
 function post_query() {
     $.ajax({
-      type: "POST",
-      url: "http://192.168.0.78:5000/homepage",
-      data: $("#form_id").serialize()
-      success: update
+      type: "GET",
+      url: "http://192.168.0.66:5000/homepage",
+      data: $("#form_id").serialize(),
+      success: update_result,
       dataType: "html"
     });
 }

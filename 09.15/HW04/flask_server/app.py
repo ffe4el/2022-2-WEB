@@ -1,5 +1,5 @@
 from flask import Flask, render_template, redirect, url_for, session, escape, request
-from flask_cors import CORS, cross_origin
+
 app = Flask(__name__)
 
 # @app.route('/admin')
@@ -14,7 +14,6 @@ def login_form_get():
 
 #로그인 후 나타나는 페이지
 @app.route('/login_get_proc', methods=['GET'])
-@cross_origin(origin="*")
 def log_get_proc():
     user_id = request.args.get('user_id')
     user_pwd = request.args.get('user_pwd')
