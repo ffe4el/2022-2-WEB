@@ -22,3 +22,6 @@
 ### 09.20/ HW05
 * javascript 사용해서 html 입출력하기
 
+
+### 09.22/ HW06
+* javascript와 css 사용해서 html 개인 홈페이지 만들기
