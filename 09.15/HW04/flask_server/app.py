@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 from flask import Flask, render_template, redirect, url_for, session, escape, request
 
+=======
+from flask import Flask, render_template, redirect, url_for, session, request
+import webbrowser
+>>>>>>> Stashed changes
 app = Flask(__name__)
 
 # @app.route('/admin')
@@ -7,7 +12,7 @@ app = Flask(__name__)
 #     return 'Hello Admin'
 
 #로그인 페이지
-@app.route('/login_form_get')
+@app.route('/')
 def login_form_get():
     return render_template('login/login_form_get.html')
 
@@ -36,6 +41,21 @@ def hello_guest(guest):
     color = 'MediumSeaGreen'
     resp = f"Hello <font color='{color}'>{guest}</font> as Guest"
     return resp
+
+#내 깃로그로 연결하기전 고먐미
+@app.route('/git_log')
+def git_log():
+    return render_template('git_log.html')
+
+
+#내 깃로그로 연결
+@app.route('/sol_log')
+def sol_log():
+    url = "https://ffe4el.github.io/"
+    webbrowser.open(url)
+    res ="Thank you for Click my log"
+    return res
+
 
 
 #유튜브 동영상 올리기(블랙핑크- 핑크베놈)
