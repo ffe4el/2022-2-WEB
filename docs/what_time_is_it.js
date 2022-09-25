@@ -1,3 +1,3 @@
-function whatTimeIsIt() {
+function WhatTimeIsIt() {
     alert(new Date());
 }
