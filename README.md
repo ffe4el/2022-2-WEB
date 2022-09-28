@@ -25,3 +25,6 @@
 
 ### 09.22/ HW06
 * javascript와 css 사용해서 html 개인 홈페이지 만들기
+
+### 09.26/ HW07
+* javascript와 css 사용해서 html 개인 홈페이지 만들기(flask의 rendertempletes 이용)
