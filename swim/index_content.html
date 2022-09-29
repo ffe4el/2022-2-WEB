@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+
+
+{% block content %}
+<h1 align="center" id="title" class="header">SWIMMING</h1>
+<h2 align="center">뭘봐</h2>
+
+<p align="center">
+    안녕하세요. 글이나 써 봅시다. 홈페이지는 무슨
+</p>
+<br/>
+<hr/>
+<h3 align="center"> <img src="{{ url_for('static', filename='images/popcat.png') }}" width="300px"><br/>
+    와암~!
+</h3>
+<hr/>
+
+<input id="input_a" onkeyup="javascript:doSomething()">
+<input id="input_b" onkeyup="javascript:doSomething()">
+<p id="result"></p>
+
+<hr/>
+<button onclick="javascript:whatTimeIsIt()">현재시간</button>
+<script>
+    function doSomething() {
+        let a = document.getElementById('input_a').value
+        let b = document.getElementById('input_b').value
+        document.getElementById('result').innerHTML = Number(a) + Number(b);
+    }
+</script>
+{% endblock %}}

@@ -4,8 +4,6 @@
 <h1 align="center">blog</h1>
 {% if posts|length == 0 %}
 <h2 align="center">welcome</h2>
-<h3 align="center"><img src="{{ url_for('static', filename='images/flycat.png') }}"></h3>
-{% else %}
 <div>
   <div>
     {% for post in posts %}
@@ -21,5 +19,5 @@
   </div>
 </div>
 {% endif %}
-
+<h3 align="center"><img src="{{ url_for('static', filename='images/loading_img.gif') }}"></h3>
 {% endblock %}
