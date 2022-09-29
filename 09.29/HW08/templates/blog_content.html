@@ -1,6 +1,7 @@
 {% extends "layout.html" %}
 
 {% block content %}
+<div class = "container">
 <h1 align="center">blog</h1>
 {% if posts|length == 0 %}
 <h2 align="center">welcome</h2>
@@ -19,6 +20,7 @@
       </article>
     {% endfor %}
   </div>
+</div>
 </div>
 {% endif %}
 
